@@ -1,0 +1,10 @@
+    NodeJS,
+    ReactJS,
+    Git/GitHub,
+    Relational DataBase,
+    No Relational DataBase,
+    PHP,
+    GitFlow,
+    SCRUM,
+    TypeOrm,
+    Cloud
